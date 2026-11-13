@@ -1,7 +1,7 @@
 
 hl.on("hyprland.start", function()
     hl.exec_cmd("hyprpm reload -n & ~/bg/bg-parent.sh")
-    hl.exec_cmd("sleep 1; waybar & hyprpaper & ~/bg/bg-cava-parent.sh")
+    hl.exec_cmd("sleep 1; waybar & hyprpaper & ~/bg/bg-parent.sh")
  end)
 
 hl.window_rule({
