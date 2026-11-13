@@ -8,8 +8,13 @@ NOTE: This wallpaper is very battery hungry, bringing my battery life from ~4 ho
 
 - install the [hyprwinwrap plugin](https://github.com/gen3vra/hyprwinwrap)
 - install [cava](https://github.com/karlstav/cava)
+- install [kitty](https://sw.kovidgoyal.net/kitty/)
 - build [my fork](https://github.com/loglot/terminal-oscilloscope) of [terminal-oscilloscope](https://github.com/rolandnsharp/terminal-oscilloscope) 
 - clone this repository to ~/bg
     - git clone https://github.com/loglot/hyprland-visualization-wallpaper.git ~/bg
 - append `~/bg/hyprland.lua` to `~/.config/hypr/hyprland.lua`
 - either run `~/bg/bg-parent.sh`, or restart hyprland
+### Optional;
+the configurations were made for the wallpaper I have, so you could either change the values in `~/bg/config/cava*.conf` to fit your wallpaper, or just use the wallpaper provided in `~/bg/img/wallpaper.png`
+
+also, I use [mechabar](https://github.com/Sejjy/MechaBar) for my waybar if you wanted that
