@@ -11,7 +11,7 @@ NOTE: This wallpaper is very battery hungry, bringing my battery life from ~4 ho
 - install [kitty](https://sw.kovidgoyal.net/kitty/)
 - build [my fork](https://github.com/loglot/terminal-oscilloscope) of [terminal-oscilloscope](https://github.com/rolandnsharp/terminal-oscilloscope) 
 - clone this repository to ~/bg
-    - git clone https://github.com/loglot/hyprland-visualization-wallpaper.git ~/bg
+    - `git clone https://github.com/loglot/hyprland-visualization-wallpaper.git ~/bg`
 - append `~/bg/hyprland.lua` to `~/.config/hypr/hyprland.lua`
 - either run `~/bg/bg-parent.sh`, or restart hyprland
 ### Optional;
