@@ -1,4 +1,4 @@
-# Hyprland Audio Visualization as a Wallpaper
+# [Hyprland](https://hypr.land) Audio Visualization as a Wallpaper
 
 NOTE: This wallpaper is very battery hungry, bringing my battery life from ~4 hours to about 1 1/2 hours
 
@@ -12,3 +12,4 @@ NOTE: This wallpaper is very battery hungry, bringing my battery life from ~4 ho
 - clone this repository to ~/bg
     - git clone https://github.com/loglot/hyprland-visualization-wallpaper.git ~/bg
 - append `~/bg/hyprland.lua` to `~/.config/hypr/hyprland.lua`
+- either run `~/bg/bg-parent.sh`, or restart hyprland
